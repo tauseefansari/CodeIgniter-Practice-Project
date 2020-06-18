@@ -1,0 +1,1 @@
+<h1 align="center"> <strong> Admin View Page </strong> </h1>
